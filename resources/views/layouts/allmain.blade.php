@@ -1,0 +1,9 @@
+<html>
+    <head></head>
+    <body>
+        @include('includes.foralltopbar')
+        <div>
+            @yield('content')
+        </div>
+    </body>
+</html>
